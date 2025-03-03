@@ -11,11 +11,3 @@
 📌 _Note: Ensure you have the necessary permissions to access the app._  
 ---
 
-### 📫 Need Help?  
-For support or inquiries, contact:  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-profile](#)  
-
----
-
-**Let’s build the future of work management together! 🚀**  
